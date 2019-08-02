@@ -1,1 +1,5 @@
+*.DS_Store
 
+/downloads
+
+/pipeline/dataset
